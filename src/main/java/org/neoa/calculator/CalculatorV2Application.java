@@ -1,4 +1,4 @@
-package org.neoa.calculatorv2;
+package org.neoa.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

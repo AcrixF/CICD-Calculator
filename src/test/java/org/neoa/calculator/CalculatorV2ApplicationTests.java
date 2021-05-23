@@ -1,4 +1,4 @@
-package org.neoa.calculatorv2;
+package org.neoa.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
